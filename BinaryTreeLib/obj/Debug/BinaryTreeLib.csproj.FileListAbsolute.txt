@@ -1,0 +1,6 @@
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\bin\Debug\BinaryTreeLib.dll
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\bin\Debug\BinaryTreeLib.pdb
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.csprojResolveAssemblyReference.cache
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.csproj.CoreCompileInputs.cache
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.dll
+D:\Курсы епам\BinaryTreeLib\BinaryTreeLib\obj\Debug\BinaryTreeLib.pdb
